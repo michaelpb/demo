@@ -1,2 +1,9 @@
-# demo
-This is a demo repository
+MEMBERS OF KISS:
+
+Gene Simmons
+
+Peter Chris
+
+Paul Stanley
+
+Ace Freely
